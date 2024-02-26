@@ -1,0 +1,4 @@
+Resources:
+  S3BRVZJ:
+    Type: 'AWS::S3::Bucket'
+    Properties: {}
